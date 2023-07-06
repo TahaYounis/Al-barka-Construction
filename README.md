@@ -1,6 +1,8 @@
 # Al-barka-Construction
 • Add and link project details, contractors, merchants, workers, and equipment.
+
 • Calculate the project's safe and list of imports & export.
+
 • Allowed you to better manage resources and ensure timely project completion
 
 # App Video
